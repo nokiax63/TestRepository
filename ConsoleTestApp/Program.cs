@@ -12,7 +12,6 @@ namespace ConsoleTestApp
         {
             Console.ReadKey();
             Console.ReadKey();
-            Console.ReadKey();
         }
     }
 }

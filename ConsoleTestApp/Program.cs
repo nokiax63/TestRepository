@@ -10,6 +10,7 @@ namespace ConsoleTestApp
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
